@@ -89,3 +89,4 @@ chart = (alt.Chart(mpg)
 chart
 
 chart.save("screenshots/altair_viz_4.png")
+
